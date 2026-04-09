@@ -42,7 +42,6 @@ A polished, responsive **React wall calendar application** built with **TanStack
 | Animations    | Framer Motion                  |
 | Icons         | Lucide React                   |
 | UI Components | shadcn/ui (Radix UI)           |
-| Deployment    | Cloudflare Workers             |
 
 ---
 
